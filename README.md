@@ -19,7 +19,7 @@ This is the React + Vite frontend for the ATS AI Screener project. It connects t
 > 📁 **Place this `frontend/` folder inside your backend root (`rag_ats/`)**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Divyey/RAG-AI-Screening-Frontend.git
 cd rag_ats/frontend
 npm install
 ```
